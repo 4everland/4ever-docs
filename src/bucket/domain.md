@@ -8,23 +8,21 @@
 
 2. Before you enter the domain that you would like to add, please make sure that the domain name is available.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/domain-add.jpg"/>
+<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/bucket/domain-add.jpg"/>
 
 3. The domain you added must be validated before it is bound to a bucket. Enter the correct Type, Name, and Value into the domain provider's backend, to validate them.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/domain-validate.jpg"/>
+<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/bucket/domain-validate.jpg"/>
 
 4. The domain status bar will turn green if the DNS is successfully validated, indicating that the domain has been successfully bound and you can access your bucket via the bound domain.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/domain-valid.jpg"/>
+<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/bucket/domain-valid.jpg"/>
 
 ## Delete Bucket
 
 To delete buckets. You can delete buckets in bulk, but if the bucket has other files, you should delete these files first before you delete buckets in bulk.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/bucket-delete.jpg"/>
-
-
+<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/bucket/bucket-delete.jpg"/>
 
 ## Delete AR Files
 
@@ -32,11 +30,9 @@ Files synced to the AR network cannot be deleted due to the permanent feature of
 
 ![](https://docs-images.4everland.store/Delete.png)
 
-
-
 ## File Actions
 
-Individual file. You can download files locally, copy paths, rename, and delete files in bulk. For files that are not synced to the AR network, you can also Sync them to the AR. 
+Individual file. You can download files locally, copy paths, rename, and delete files in bulk. For files that are not synced to the AR network, you can also Sync them to the AR.
 
 ![](https://docs-images.4everland.store/Actions.png)
 
@@ -45,8 +41,6 @@ Individual file. You can download files locally, copy paths, rename, and delete 
 You can veiw a list of all the buckets you have synced to AR, including number of files, file name and size, AR Hash, and the last time it was edited.
 
 ![](https://docs-images.4everland.store/History.png)
-
-
 
 ## Contact Us
 

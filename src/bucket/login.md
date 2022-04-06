@@ -4,7 +4,7 @@
 
 You can login to bucket via two ways, connect wallet or Github. If you register after February 15th, you will only be able to login using the wallet.
 
-<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/screenshots/login.jpg"/>
+<img style="max-width:500px;margin-top:15px;box-shadow:0 30px 60px rgba(0,0,0,0.12);" src="../assets/bucket/login.jpg"/>
 
 ## Step2: Create Bucket
 
