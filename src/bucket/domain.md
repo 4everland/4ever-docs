@@ -44,4 +44,4 @@ You can veiw a list of all the buckets you have synced to AR, including number o
 
 ## Contact Us
 
-Follow these steps to upload, pin, fetch and delete files to 4EVERLAND Bucket via the IPFS system. Feel free to contact us, we'd be happy to help you set up and run your website smoothly. So, please contact us via our [email](contact@4everland.org), [website](https://bucket.4everland.org), [Community Chat](https://discord.gg/Cun2VpsdjF), or [Twitter](https://twitter.com/4everland_org)
+Follow these steps to upload, pin, fetch and delete files to 4EVERLAND Bucket via the IPFS system. Feel free to contact us, we'd be happy to help you set up and run your website smoothly. So, please contact us via our [email](contact@4everland.org), [website](https://dashboard.4everland.org/#/bucket), [Community Chat](https://discord.gg/Cun2VpsdjF), or [Twitter](https://twitter.com/4everland_org)

@@ -8,7 +8,7 @@ API compatible with [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/API/
 https://endpoint.4everland.co
 ```
 
-generate API Key from `https://bucket.4everland.org/#/apikey`
+generate API Key from `https://dashboard.4everland.org/#/settings?tab=auth_tokens&sub=bucket_auth_tokens`
 
 ## Supported Feature Set
 
