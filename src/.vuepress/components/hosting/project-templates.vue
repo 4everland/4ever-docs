@@ -9,16 +9,14 @@
       }"
     >
       <a
-        :href="
-          `https://hosting.4everland.org/#/new/clone-flow?s=$${encodeURIComponent(
-            p.repo
-          )}`
-        "
+        :href="`https://dashboard.4everland.org/#/hosting/new?type=clone-flow&s=$${encodeURIComponent(
+          p.repo
+        )}`"
         target="_blank"
       >
         <h3 class="title">{{ p.title }}</h3>
         <p class="desc">{{ p.desc }}</p>
-        <p class="logo"><img style="width:40px" :src="p.img" /></p>
+        <p class="logo"><img style="width: 40px" :src="p.img" /></p>
       </a>
     </div>
   </div>
@@ -30,39 +28,31 @@ export default {
       projects: [
         {
           title: "Vue",
-          desc:
-            "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
+          desc: "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
           img: require("../../../assets/frameworks/vue.svg"),
           color: "rgb(185 241 220)",
-          repo:
-            "https://github.com/4everland/project-templates/tree/main/examples/vue",
+          repo: "https://github.com/4everland/project-templates/tree/main/examples/vue",
         },
         {
           title: "Next.js",
-          desc:
-            "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
+          desc: "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
           img: require("../../../assets/frameworks/next.svg"),
           color: "rgb(176 181 185)",
-          repo:
-            "https://github.com/4everland/project-templates/tree/main/examples/nextjs",
+          repo: "https://github.com/4everland/project-templates/tree/main/examples/nextjs",
         },
         {
           title: "Nuxt.js",
-          desc:
-            "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
+          desc: "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
           img: require("../../../assets/frameworks/nuxt.svg"),
           color: "rgb(185 241 220)",
-          repo:
-            "https://github.com/4everland/project-templates/tree/main/examples/nuxtjs",
+          repo: "https://github.com/4everland/project-templates/tree/main/examples/nuxtjs",
         },
         {
           title: "Gatsby",
-          desc:
-            "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
+          desc: "The Progressive JavaScript Framework. Approachable. Versatile. Performant.",
           img: require("../../../assets/frameworks/gatsby.svg"),
           color: "rgb(217 197 237)",
-          repo:
-            "https://github.com/4everland/project-templates/tree/main/examples/gatsby",
+          repo: "https://github.com/4everland/project-templates/tree/main/examples/gatsby",
         },
       ],
     };
