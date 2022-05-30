@@ -40,7 +40,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "4everland/docs-website",
+    repo: "4everland/4ever-docs",
     docsBranch: "main",
     editLinks: true,
     docsDir: "src",
