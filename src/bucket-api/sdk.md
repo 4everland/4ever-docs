@@ -66,11 +66,11 @@ Supported [S3 STS](https://docs.aws.amazon.com/STS/latest/APIReference/welcome.h
 | ------------------------------------------------------------------------------- | --------------------------------------------- |
 | Maximum number of buckets                                                       | 200                                           |
 | Maximum number of objects per bucket                                            | no-limit                                      |
-| Maximum object size                                                             | 5 TiB                                         |
+| Maximum object size                                                             | about 96 GiB                                  |
 | Minimum object size                                                             | 0 B                                           |
-| Maximum object size per PUT operation                                           | 5 GiB                                         |
+| Maximum object size per PUT operation                                           | 100 MiB                                       |
 | Maximum number of parts per upload                                              | 1000                                          |
-| Part size range                                                                 | 5 MiB to 5 GiB. Last part can be 0 B to 5 GiB |
+| Part size range                                                                 | 5 MiB to 100 MiB. Last part can be 0 B to 100 MiB |
 | Maximum number of parts returned per list parts request                         | 1000                                          |
 | Maximum number of objects returned per list objects request                     | 1000                                          |
 | Maximum number of multipart uploads returned per list multipart uploads request | 1000                                          |
